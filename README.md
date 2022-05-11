@@ -13,3 +13,4 @@ Link - https://www.kaggle.com/datasets/ionaskel/laptop-prices
 4. streamlit
 
 # webapp link-
+https://laptop-tausif.herokuapp.com/
